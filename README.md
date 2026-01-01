@@ -1,9 +1,11 @@
-![header](https://capsule-render.vercel.app/api?type=cylinder&color=auto&height=100&section=header&text=wafla&fontSize=50)
+📋 로그인 없이 텍스트 공유하기 👉 [CtrlCV](https://www.ctrlcv.net)
 
 ## Awards
 <ul>
-        <li>(2022) 대경권 대학생 프로그래밍 경진대회 최우수상</li>
+        <li>(2025) 경북 네트워크형 캠퍼스 SW아카데미 장려상</li>
+        <li>(2025) 풀스택 개발자 양성과정(WEBKIT640) 우수상</li>
         <li>(2022) 한국멀티미디어학회 학부생 논문경진대회 동상</li>
+        <li>(2022) 대경권 대학생 프로그래밍 경진대회 최우수상</li>
 </ul>
 
 ## Stack
