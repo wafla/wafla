@@ -32,6 +32,11 @@ Backend Developer
         <li>Hibernate ActionQueue 실행 순서와 Soft Delete로 인해 발생한 유니크 제약 조건 위반 문제를 flush 적용 및 물리 삭제 방식으로 전환하여 해결</li>
         <li>일기, 키워드, 스트릭, 이벤트, 문의 등 핵심 도메인 모델 설계 및 JPA 기반 비즈니스 로직 구현</li>
 </ul>
+        🔗관련 링크
+<ul>
+        <li><a href="https://github.com/toduck-App/toduck-backend">Github</a></li>
+        <li><a href="https://github.com/toduck-App/toduck-backend(https://apps.apple.com/kr/app/%ED%86%A0%EB%8D%95-to-duck-%EC%84%B1%EC%9D%B8-adhd%EC%9D%B8%EC%9D%84-%EC%9C%84%ED%95%9C-%ED%86%A0%EB%8B%A5%EC%9E%84/id6502951629)">App Store</a></li>
+</ul>
 
 ### 2. AgentOne
 #### 소상공인을 위한 맞춤형 AI Agent<br>
@@ -43,6 +48,10 @@ Backend Developer
         <li>Prometheus 메트릭을 활용하여 사용자별 서버 리소스 사용량을 확인 및 관리 할 수 있는 관리자 모니터링 페이지 구현</li>
         <li>oauth2 기반의 구글 로글인 기능 구현 및 사용자 경험 증대</li>
         <li>기능 명세 및 기획 내용을 문서화하고 팀원 역할 분배와 개발 방향 제시를 통해 협업을 리딩</li>
+</ul>
+        🔗관련 링크
+<ul>
+        <li><a href="https://github.com/toduck-App/toduck-backend(https://github.com/wafla/AgentOne)">Github</a></li>
 </ul>
 
 ## 🏆 수상 & 활동
