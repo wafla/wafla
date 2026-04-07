@@ -1,5 +1,3 @@
-📋 로그인 없이 텍스트 공유하기 👉 [CtrlCV](https://www.ctrlcv.net)
-
 # 최연우
 Backend Developer
 <ul>
