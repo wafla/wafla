@@ -33,7 +33,7 @@ Backend Developer
         🔗관련 링크
 <ul>
         <li><a href="https://github.com/toduck-App/toduck-backend">Github</a></li>
-        <li><a href="https://github.com/toduck-App/toduck-backend(https://apps.apple.com/kr/app/%ED%86%A0%EB%8D%95-to-duck-%EC%84%B1%EC%9D%B8-adhd%EC%9D%B8%EC%9D%84-%EC%9C%84%ED%95%9C-%ED%86%A0%EB%8B%A5%EC%9E%84/id6502951629)">App Store</a></li>
+        <li><a href="https://apps.apple.com/kr/app/%ED%86%A0%EB%8D%95-to-duck-%EC%84%B1%EC%9D%B8-adhd%EC%9D%B8%EC%9D%84-%EC%9C%84%ED%95%9C-%ED%86%A0%EB%8B%A5%EC%9E%84/id6502951629">App Store</a></li>
 </ul>
 
 ### 2. AgentOne
@@ -49,7 +49,7 @@ Backend Developer
 </ul>
         🔗관련 링크
 <ul>
-        <li><a href="https://github.com/toduck-App/toduck-backend(https://github.com/wafla/AgentOne)">Github</a></li>
+        <li><a href="https://github.com/wafla/AgentOne">Github</a></li>
 </ul>
 
 ## 🏆 수상 & 활동
