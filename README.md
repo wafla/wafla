@@ -52,6 +52,11 @@ Backend Developer
         <li><a href="https://github.com/wafla/AgentOne">Github</a></li>
 </ul>
 
+## 🌐 개인 서비스
+
+- [CtrlCV](https://ctrlcv.net) - 기기 간 파일·텍스트 공유 서비스
+- [ERDUO](https://erduo.xyz) - 이터널 리턴 유저 간 같은 매치 기록 검색 서비스
+
 ## 🏆 수상 & 활동
 <ul>
         <li>(2025) 교내 알고리즘 경진대회<a href="https://www.acmicpc.net/category/detail/4550">(KUMOH ASK CONTEST)</a> 출제 및 운영</li>
